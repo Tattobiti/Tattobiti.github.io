@@ -1,4 +1,9 @@
 # Tobiáš Krupa
+
+![Profile](foto.jpg)
+
+* * *
+
 ## Student
 
 Tobiáš Krupa  
