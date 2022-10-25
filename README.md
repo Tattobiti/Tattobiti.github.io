@@ -1,6 +1,6 @@
 # Tobiáš Krupa
 
-![Profile](foto.jpg)
+![Profile](foto.png)
 
 * * *
 
