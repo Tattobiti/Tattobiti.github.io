@@ -1,4 +1,4 @@
-# Tattobiti.github.io
+# Tobiáš Krupa
 ## Student matematického modelování
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nulla turpis magna, cursus sit amet, suscipit   a, interdum id, felis. Duis bibendum, lectus ut viverra rhoncus, dolor nunc faucibus libero, eget facilisis enim ipsum id lacus. Nulla non arcu lacinia neque faucibus   fringilla. Proin mattis lacinia justo. Cras pede libero, dapibus nec, pretium sit amet, tempor quis. Nullam rhoncus aliquam metus. Cum sociis natoque penatibus et    magnis dis parturient montes, nascetur ridiculus mus. Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. Etiam sapien elit, consequat eget, tristique non,   venenatis quis, ante. Aliquam erat volutpat. Integer tempor. Etiam posuere lacus quis dolor.  
