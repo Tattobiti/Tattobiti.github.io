@@ -7,7 +7,7 @@ Tobiáš Krupa
 
 * * *
 
-## Kontakt
+## Contact
 
 * phone number: *** *** *55  
 * e-mail: Tobias.Krup@seznam.cz  
