@@ -12,4 +12,4 @@ Tobiáš Krupa
 * phone number: *** *** *55  
 * e-mail: Tobias.Krup@seznam.cz  
 * [github](https://github.com/Tattobiti)  
-* [CV]
+* [CV](cv.pdf)
