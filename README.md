@@ -7,10 +7,14 @@
 ## Student
 
 Tobiáš Krupa  
-* student of Bachelor of Mathematics, programme Mathematical modelling  
+* student of Master of Mathematics, programme Mathematical modelling  
 * Charles University, Faculty of Mathematics and Physics
 
 * * *
+
+## Teaching
+
+[Mathematical analysis I]
 
 ## Contact
 
