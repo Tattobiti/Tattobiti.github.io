@@ -14,7 +14,7 @@ Tobiáš Krupa
 
 ## Teaching
 
-[Mathematical analysis I]
+[Mathematical analysis I](Teaching)
 
 ## Contact
 
