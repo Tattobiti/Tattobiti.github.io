@@ -1,4 +1,6 @@
-### Teaching
+# Teaching
+
+* * *
 
 ## Courses
 
