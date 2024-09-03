@@ -14,7 +14,7 @@ Tobiáš Krupa
 
 ## Teaching
 
-[Mathematical analysis I](Teaching.md)
+[Mathematical analysis I](https://tattobiti.github.io/Teaching)
 
 ## Contact
 
