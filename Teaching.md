@@ -2,6 +2,6 @@
 
 ## Courses
 
-* * 
+* * *
 
 Mathematical analysis I
