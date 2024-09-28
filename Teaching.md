@@ -27,6 +27,8 @@ Na cvičení bude možné získat až 50 bodů:
 
 Na zápočet je nutné získat alespoň 26 bodů. Získané body poté mají vliv na hodnocení u zkoušky, viz [Pravidla pro zkoušku](https://www.karlin.mff.cuni.cz/~mbul8060/Zkouska_NOFY151.pdf).
 
+Tabulka se získanými body [zde](https://docs.google.com/spreadsheets/d/15FLNlSXpAwswt_umHwh8uxalhjopCTLYMpIhtYQQAIQ/edit?gid=0#gid=0)
+
 ___
 
 * * *
