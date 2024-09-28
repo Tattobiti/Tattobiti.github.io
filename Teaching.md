@@ -15,9 +15,12 @@
 
 [Stránka přednášejícího](https://www.karlin.mff.cuni.cz/~mbul8060/teaching.html)
 
+<strong>Zadání příkladů</strong>:
+
 + 30\. 9\. 2024 --- Znalosti ze střední školy --- [1. cvičení](cvika/cvic1z01.pdf)
 + 7\. 10\. 2024 --- Matematická indukce --- [2. cvičení](cvika/cvic1z02.pdf)
 + 14\. 10\. 2024 --- Limity funkcí I --- [3. cvičení](cvika/cvic1z03.pdf)
++ 
 
 <strong>Podmínky zápočtu</strong>:
 
