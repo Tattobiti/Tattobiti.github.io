@@ -21,6 +21,7 @@
 + 7\. 10\. 2024 --- Matematická indukce --- [2. cvičení](cvika/cvic1z02.pdf) --- [řešení](cvika/cviceni_02.pdf)
 + 14\. 10\. 2024 --- Limity funkcí I --- [3. cvičení](cvika/cvic1z03.pdf)
 + 21\. 10\. 2024 --- Limity funkcí II --- [4. cvičení](cvika/cvic1z04.pdf)
++ 
 
 <strong>Domácí úkoly</strong>:
 
