@@ -27,7 +27,7 @@
 <strong>Domácí úkoly</strong>:
 
 + [DU1](cvika/DU1.pdf) --- odevzdat do cvičení 14\. 10\. 2024 --- [vzorové řešení](cvika/DU1-řešení.pdf)
-+ [DU2](cvika/DU2.pdf) --- odevzdat do cvičení 21\. 10\. 2024 --- [vzorové řešení](cvika/JiriSykora.pdf) - od Jiřího Sýkory
++ [DU2](cvika/DU2.pdf) --- odevzdat do cvičení 21\. 10\. 2024 --- [vzorové řešení](cvika/HW_Matalýza_1 (2).pdf) - od Jiřího Sýkory
 + [DU3](cvika/DU3.pdf) --- odevzdat do cvičení 30\. 10\. 2024
 
 <strong>Podmínky zápočtu</strong>:
