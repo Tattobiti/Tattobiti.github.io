@@ -17,13 +17,18 @@
 
 <strong>Zadání příkladů</strong>:
 
-+ 30\. 9\. 2024 --- Znalosti ze střední školy    --- [1. cvičení](cvika/cvic1z01.pdf) --- [řešení](cvika/cviceni_01.pdf)
-+ + --- [1. cvičení](cvika/cvic1z01.pdf) --- [řešení](cvika/cviceni_01.pdf)
-+ 7\. 10\. 2024 --- Matematická indukce          --- [2. cvičení](cvika/cvic1z02.pdf) --- [řešení](cvika/cviceni_02.pdf)
-+ 14\. 10\. 2024 --- Limity funkcí I             --- [3. cvičení](cvika/cvic1z03.pdf) --- [řešení](cvika/cviceni_03.pdf)
-+ 21\. 10\. 2024 --- Limity funkcí II            --- [4. cvičení](cvika/cvic1z04.pdf) --- [řešení](cvika/cviceni_04.pdf)
-+ 30\. 10\. 2024 --- Limity funkcí II            --- [TABULKA](https://docs.google.com/spreadsheets/d/1NbO_kxkc4jKuUZqtwO7tKu4FtVL0oKIfTx2A-L9kcG0/edit?usp=sharing)
-+ 4\. 11\. 2024 --- Spojitost a derivace funkcí  --- [5. cvičení](cvika/cvic1z05.pdf) \+ <strong>první zápočtová písemka</strong> 
++ 30\. 9\. 2024 --- Znalosti ze střední školy --- 
+  + [1. cvičení](cvika/cvic1z01.pdf) --- [řešení](cvika/cviceni_01.pdf)
++ 7\. 10\. 2024 --- Matematická indukce --- 
+  + [2. cvičení](cvika/cvic1z02.pdf) --- [řešení](cvika/cviceni_02.pdf)
++ 14\. 10\. 2024 --- Limity funkcí I --- 
+  + [3. cvičení](cvika/cvic1z03.pdf) --- [řešení](cvika/cviceni_03.pdf)
++ 21\. 10\. 2024 --- Limity funkcí II --- 
+  + [4. cvičení](cvika/cvic1z03.pdf) --- [řešení](cvika/cviceni_04.pdf)
++ 30\. 10\. 2024 --- Limity funkcí II ---
+  + [TABULKA](https://docs.google.com/spreadsheets/d/1NbO_kxkc4jKuUZqtwO7tKu4FtVL0oKIfTx2A-L9kcG0/edit?usp=sharing)
++ 4\. 11\. 2024 --- Spojitost a derivace funkcí  --- \+ <strong>první zápočtová písemka</strong>
+  +[5. cvičení](cvika/cvic1z05.pdf)
 
 <strong>Domácí úkoly</strong>:
 
