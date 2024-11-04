@@ -29,12 +29,20 @@
   + [TABULKA](https://docs.google.com/spreadsheets/d/1NbO_kxkc4jKuUZqtwO7tKu4FtVL0oKIfTx2A-L9kcG0/edit?usp=sharing)
 + 4\. 11\. 2024 --- Spojitost a derivace funkcí  --- \+ <strong>první zápočtová písemka</strong>
   + [5. cvičení](cvika/cvic1z05.pdf)
+  + [Písemka](cvika/Test1.pdf)
++ 11\. 11\. 2024 --- Derivace
+  + [Tabulka základních derivací](cvika/Tabulka derivací a primitivních funkcí.pdf)
++ 18\. 11\. 2024 --- Primitivní funkce I 
+  + [6. cvičení](cvika/cvic1z06.pdf)
++ 25\. 11\. 2024 --- Primitivní funkce II 
+  + [6. cvičení](cvika/cvic1z06.pdf) 
 
 <strong>Domácí úkoly</strong>:
 
 + [DU1](cvika/DU1.pdf) --- odevzdat do cvičení 14\. 10\. 2024 --- [vzorové řešení](cvika/DU1-řešení.pdf)
 + [DU2](cvika/DU2.pdf) --- odevzdat do cvičení 21\. 10\. 2024 --- [vzorové řešení](cvika/HW_Matalýza_1 (2).pdf) - od Jiřího Sýkory
 + [DU3](cvika/DU3.pdf) --- odevzdat do cvičení 30\. 10\. 2024 --- [vzorové řešení](cvika/DU3-reseni.pdf)
++ [DU4](cvika/DU4.pdf) --- odevzdat do cvičení 11\. 11\. 2024
 
 <strong>Podmínky zápočtu</strong>:
 
