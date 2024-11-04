@@ -31,11 +31,11 @@
   + [5. cvičení](cvika/cvic1z05.pdf)
   + [Písemka](cvika/Test1.pdf)
 + 11\. 11\. 2024 --- Derivace
-  + [Tabulka základních derivací](cvika/Tabulka derivací a primitivních funkcí.pdf)
+  + [Tabulka základních derivací](cvika/Tabulka.pdf)
 + 18\. 11\. 2024 --- Primitivní funkce I 
   + [6. cvičení](cvika/cvic1z06.pdf)
 + 25\. 11\. 2024 --- Primitivní funkce II 
-  + [6. cvičení](cvika/cvic1z06.pdf) 
+  + [7. cvičení](cvika/cvic1z07.pdf) 
 
 <strong>Domácí úkoly</strong>:
 
