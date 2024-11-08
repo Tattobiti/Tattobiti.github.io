@@ -29,7 +29,7 @@
   + [TABULKA](https://docs.google.com/spreadsheets/d/1NbO_kxkc4jKuUZqtwO7tKu4FtVL0oKIfTx2A-L9kcG0/edit?usp=sharing)
 + 4\. 11\. 2024 --- Spojitost a derivace funkcí  --- \+ <strong>první zápočtová písemka</strong>
   + [5. cvičení](cvika/cvic1z05.pdf)
-  + [Písemka](cvika/Test1.pdf)
+  + [Písemka](cvika/Test1.pdf) --- [vzorové řešení](cvika/Test1-solution.pdf)
 + 11\. 11\. 2024 --- Derivace
   + [Tabulka základních derivací](cvika/Tabulka.pdf)
 + 18\. 11\. 2024 --- Primitivní funkce I 
