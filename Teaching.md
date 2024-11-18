@@ -28,12 +28,12 @@
 + 30\. 10\. 2024 --- Limity funkcí II 
   + [TABULKA](https://docs.google.com/spreadsheets/d/1NbO_kxkc4jKuUZqtwO7tKu4FtVL0oKIfTx2A-L9kcG0/edit?usp=sharing)
 + 4\. 11\. 2024 --- Spojitost a derivace funkcí  --- \+ <strong>první zápočtová písemka</strong>
-  + [5. cvičení](cvika/cvic1z05.pdf)
+  + [5. cvičení](cvika/cvic1z05.pdf) --- [řešení](cvika/cviceni_05.pdf)
   + [Písemka](cvika/Test1.pdf) --- [vzorové řešení](cvika/Test1-solution.pdf)
 + 11\. 11\. 2024 --- Derivace
   + [Tabulka základních derivací](cvika/Tabulka.pdf)
 + 18\. 11\. 2024 --- Primitivní funkce I 
-  + [6. cvičení](cvika/cvic1z06.pdf)
+  + [6. cvičení](cvika/cvic1z06.pdf) --- [řešení](cvika/cviceni_06.pdf)
 + 25\. 11\. 2024 --- Primitivní funkce II 
   + [7. cvičení](cvika/cvic1z07.pdf) 
 
