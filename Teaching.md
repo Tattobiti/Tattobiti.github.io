@@ -35,7 +35,8 @@
 + 18\. 11\. 2024 --- Primitivní funkce I 
   + [6. cvičení](cvika/cvic1z06.pdf) --- [řešení](cvika/cviceni_06.pdf)
 + 25\. 11\. 2024 --- Primitivní funkce II 
-  + [7. cvičení](cvika/cvic1z07.pdf) 
+  + [7. cvičení](cvika/cvic1z07.pdf)
+  + [Tabulka trikových substitucí](cvika/substituce_tabulka.pdf)
 
 <strong>Domácí úkoly</strong>:
 
@@ -43,7 +44,8 @@
 + [DU2](cvika/DU2.pdf) --- odevzdat do cvičení 21\. 10\. 2024 --- [vzorové řešení](cvika/HW_Matalýza_1 (2).pdf) - od Jiřího Sýkory
 + [DU3](cvika/DU3.pdf) --- odevzdat do cvičení 30\. 10\. 2024 --- [vzorové řešení](cvika/DU3-reseni.pdf)
 + [DU4](cvika/DU4.pdf) --- odevzdat do cvičení 11\. 11\. 2024 --- [vzorové řešení](cvika/DU4-solution.pdf)
-+ [DU5](cvika/DU5.pdf) --- odevzdat do cvičení 18\. 11\. 2024 
++ [DU5](cvika/DU5.pdf) --- odevzdat do cvičení 18\. 11\. 2024
++ [DU6](cvika/DU6.pdf) --- odevzdat do cvičení 25\. 11\. 2024
 
 <strong>Podmínky zápočtu</strong>:
 
