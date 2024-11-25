@@ -37,6 +37,14 @@
 + 25\. 11\. 2024 --- Primitivní funkce II 
   + [7. cvičení](cvika/cvic1z07.pdf)
   + [Tabulka trikových substitucí](cvika/substituce_tabulka.pdf)
+  + [8. cvičení](cvika/cvic1z08.pdf)
++ 2\. 12\. 2024 --- Limity posloupností
+  + [9. cvičení](cvika/cvic1z09.pdf)
++ 9\. 12\. 2024 --- Hlubší vlastnosti funkcí
+  + [10. cvičení](cvika/cvic1z10.pdf)
+  + [12. cvičení](cvika/cvic1z12.pdf)
++ 16\. 12\. 2024 --- Taylorův polynom
+  + [11. cvičení](cvika/cvic1z11.pdf)
 
 <strong>Domácí úkoly</strong>:
 
