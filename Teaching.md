@@ -35,9 +35,9 @@
 + 18\. 11\. 2024 --- Primitivní funkce I 
   + [6. cvičení](cvika/cvic1z06.pdf) --- [řešení](cvika/cviceni_06.pdf)
 + 25\. 11\. 2024 --- Primitivní funkce II 
-  + [7. cvičení](cvika/cvic1z07.pdf)
+  + [7. cvičení](cvika/cvic1z07.pdf) --- [řešení](cvika/cviceni_07.pdf)
   + [Tabulka trikových substitucí](cvika/substituce_tabulka.pdf)
-  + [8. cvičení](cvika/cvic1z08.pdf)
+  + [8. cvičení](cvika/cvic1z08.pdf) --- [řešení](cvika/cviceni_08.pdf)
 + 2\. 12\. 2024 --- Limity posloupností
   + [9. cvičení](cvika/cvic1z09.pdf)
 + 9\. 12\. 2024 --- Hlubší vlastnosti funkcí
