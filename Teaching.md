@@ -39,7 +39,7 @@
   + [Tabulka trikových substitucí](cvika/substituce_tabulka.pdf)
   + [8. cvičení](cvika/cvic1z08.pdf) --- [řešení](cvika/cviceni_08.pdf)
 + 2\. 12\. 2024 --- Limity posloupností
-  + [9. cvičení](cvika/cvic1z09.pdf)
+  + [9. cvičení](cvika/cvic1z09.pdf) --- [řešení](cvika/cviceni_09-1-5.pdf)
 + 9\. 12\. 2024 --- Hlubší vlastnosti funkcí
   + [10. cvičení](cvika/cvic1z10.pdf)
   + [12. cvičení](cvika/cvic1z12.pdf)
@@ -53,8 +53,9 @@
 + [DU3](cvika/DU3.pdf) --- odevzdat do cvičení 30\. 10\. 2024 --- [vzorové řešení](cvika/DU3-reseni.pdf)
 + [DU4](cvika/DU4.pdf) --- odevzdat do cvičení 11\. 11\. 2024 --- [vzorové řešení](cvika/DU4-solution.pdf)
 + [DU5](cvika/DU5.pdf) --- odevzdat do cvičení 18\. 11\. 2024 --- [vzorové řešení](cvika/DU5-solution.pdf)
-+ [DU6](cvika/DU6.pdf) --- odevzdat do večera 29\. 11\. 2024
++ [DU6](cvika/DU6.pdf) --- odevzdat do večera 29\. 11\. 2024 --- [vzorové řešení](cvika/DU6-solution.pdf)
 + [DU7](cvika/DU7.pdf) --- odevzdat do cvičení 2\. 12\. 2024
++ [DU8](cvika/DU8.pdf) --- odevzdat do cvičení 9\. 12\. 2024
 
 <strong>Podmínky zápočtu</strong>:
 
