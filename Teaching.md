@@ -43,7 +43,7 @@
 + 9\. 12\. 2024 --- Hlubší vlastnosti funkcí
   + [10. cvičení](cvika/cvic1z10.pdf) --- [řešení](cvika/cviceni10.pdf)
   + [12. cvičení](cvika/cvic1z12.pdf)
-+ 16\. 12\. 2024 --- Taylorův polynom
++ 16\. 12\. 2024 --- Taylorův polynom \+ <strong>druhá zápočtová písemka</strong>
   + [11. cvičení](cvika/cvic1z11.pdf)
 
 <strong>Domácí úkoly</strong>:
