@@ -42,9 +42,10 @@
   + [9. cvičení](cvika/cvic1z09.pdf) --- [řešení](cvika/cviceni_09-1-5.pdf)
 + 9\. 12\. 2024 --- Hlubší vlastnosti funkcí
   + [10. cvičení](cvika/cvic1z10.pdf) --- [řešení](cvika/cviceni10.pdf)
-  + [12. cvičení](cvika/cvic1z12.pdf)
+  + [12. cvičení](cvika/cvic1z12.pdf) --- [řešení](cvika/cviceni_12-adh.pdf)
 + 16\. 12\. 2024 --- Taylorův polynom \+ <strong>druhá zápočtová písemka</strong>
-  + [11. cvičení](cvika/cvic1z11.pdf)
+  + [11. cvičení](cvika/cvic1z11.pdf) --- [řešení](cvika/cviceni_11-adh.pdf)
+  + [Písemka](cvika/Test2.pdf) --- [vzorové řešení](cvika/Test2-solution.pdf)
 
 <strong>Domácí úkoly</strong>:
 
@@ -56,7 +57,8 @@
 + [DU6](cvika/DU6.pdf) --- odevzdat do večera 29\. 11\. 2024 --- [vzorové řešení](cvika/DU6-solution.pdf)
 + [DU7](cvika/DU7.pdf) --- odevzdat do cvičení 2\. 12\. 2024 --- [vzorové řešení](cvika/DU7-solution.pdf)
 + [DU8](cvika/DU8.pdf) --- odevzdat do cvičení 9\. 12\. 2024 --- [vzorové řešení](cvika/DU8-solution.pdf)
-+ [DU9](cvika/DU9.pdf) --- odevzdat do cvičení 16\. 12\. 2024
++ [DU9](cvika/DU9.pdf) --- odevzdat do cvičení 16\. 12\. 2024 --- [vzorové řešení](cvika/DU9-solution.pdf)
++ [DU10]
 
 <strong>Podmínky zápočtu</strong>:
 
