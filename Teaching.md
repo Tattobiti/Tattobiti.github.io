@@ -58,7 +58,7 @@
 + [DU7](cvika/DU7.pdf) --- odevzdat do cvičení 2\. 12\. 2024 --- [vzorové řešení](cvika/DU7-solution.pdf)
 + [DU8](cvika/DU8.pdf) --- odevzdat do cvičení 9\. 12\. 2024 --- [vzorové řešení](cvika/DU8-solution.pdf)
 + [DU9](cvika/DU9.pdf) --- odevzdat do cvičení 16\. 12\. 2024 --- [vzorové řešení](cvika/DU9-solution.pdf)
-+ [DU10]
++ [DU10](cvika/DU10.pdf) --- odevzdat do večera 10\. 1\. 2024
 
 <strong>Podmínky zápočtu</strong>:
 
