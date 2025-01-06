@@ -47,7 +47,7 @@
   + [11. cvičení](cvika/cvic1z11.pdf) --- [řešení](cvika/cviceni_11-adh.pdf)
   + [Písemka](cvika/Test2.pdf) --- [vzorové řešení](cvika/Test2-solution.pdf)
 + 6\. 1\. 2025 --- Určitý integrál
-  +[13. cvičení](cvika/cvic1z13.pdf)
+  + [13. cvičení](cvika/cvic1z13.pdf)
 
 <strong>Domácí úkoly</strong>:
 
