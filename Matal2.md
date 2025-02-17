@@ -28,7 +28,7 @@ Na cvičení bude možné získat až 50 bodů:
 + 2 písemky, každá max. za 18 bodů
 + 10 dobrovolných domácích úkolů, každý max. za 2 body, na konci se studentovi počítá 7 nejlepších úkolů
 
-Na zápočet je nutné získat alespoň 26 bodů. Získané body poté mají vliv na hodnocení u zkoušky, viz [Pravidla pro zkoušku](https://www.karlin.mff.cuni.cz/~mbul8060/Zkouska_NOFY151.pdf).
+Na zápočet je nutné získat alespoň 26 bodů. Získané body poté mají vliv na hodnocení u zkoušky, viz [Pravidla pro zkoušku](https://www.karlin.mff.cuni.cz/~mbul8060/NOFY152/Zkouska_NOFY152.pdf).
 
 Tabulka se získanými body [zde](https://docs.google.com/spreadsheets/d/1VRyRStmssmhYSyboxeZ66t47v5QAovNpC8vqQqO_n04/edit?gid=0#gid=0)
 
