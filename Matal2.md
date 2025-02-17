@@ -16,7 +16,8 @@
 [Stránka přednášejícího](https://www.karlin.mff.cuni.cz/~mbul8060/teaching.html)
 
 <strong>Zadání příkladů</strong>:
-+ 
++ 19\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
+  + [1. cvičení](cvika/cvic1z13.pdf)
 
 <strong>Domácí úkoly</strong>:
 + <it>Coming soon...</it>
