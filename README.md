@@ -16,8 +16,8 @@ Tobiáš Krupa
 
 ## Teaching
 
-[Mathematical analysis I](https://tattobiti.github.io/Teaching)
-[Mathematical analysis II](https://tattobiti.github.io/MAII)
+* [Mathematical analysis I](https://tattobiti.github.io/Teaching)
+* [Mathematical analysis II](https://tattobiti.github.io/MAII)
 
 ## Contact
 
