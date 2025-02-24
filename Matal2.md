@@ -17,7 +17,8 @@
 
 <strong>Zadání příkladů</strong>:
 + 19\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
-  + [1. cvičení](cvika/cvic1z13a.pdf)
+  + [1. cvičení](cvika/cvic1z13a.pdf) --- [řešení](cvika/cvic1z13.pdf)
++ 26\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
   + [2. cvičení](cvika/cvic201.pdf)
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
 
