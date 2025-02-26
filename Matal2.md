@@ -23,7 +23,7 @@
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
 
 <strong>Domácí úkoly</strong>:
-+ <it>Coming soon...</it>
++ [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
