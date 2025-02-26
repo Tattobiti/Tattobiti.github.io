@@ -17,10 +17,12 @@
 
 <strong>Zadání příkladů</strong>:
 + 19\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
-  + [1. cvičení](cvika/cvic1z13a.pdf) --- [řešení](cvika/cvic1z13.pdf)
+  + [1. cvičení](cvika/cvic1z13a.pdf) --- [řešení](cvika/cvic1z13.pdf) nebo [jiné řešení](cvika/cviceni01.pdf)
 + 26\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
-  + [2. cvičení](cvika/cvic201.pdf)
+  + [2. cvičení](cvika/cvic201.pdf) --- [řešení](cvika/cviceni02.pdf)
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
++ 5\. 3\. 2025 --- Obyčejné diferenciální rovnice
+  + [3. cvičení](cvika/cvic1|02.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025
