@@ -22,7 +22,7 @@
   + [2. cvičení](cvika/cvic201.pdf) --- [řešení](cvika/cviceni02.pdf)
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
 + 5\. 3\. 2025 --- Obyčejné diferenciální rovnice
-  + [3. cvičení](cvika/cvic1|02.pdf)
+  + [3. cvičení](cvika/cvic102.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025
