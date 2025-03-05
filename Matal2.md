@@ -21,11 +21,14 @@
 + 26\. 2\. 2025 --- Aplikace Riemanova a Newtonova integrálu
   + [2. cvičení](cvika/cvic201.pdf) --- [řešení](cvika/cviceni02.pdf)
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
-+ 5\. 3\. 2025 --- Obyčejné diferenciální rovnice
-  + [3. cvičení](cvika/cvic102.pdf)
++ 5\. 3\. 2025 --- Obyčejné diferenciální rovnice - Separované proměnné
+  + [3. cvičení](cvika/cvic102.pdf) --- [řešení](cvika/cviceni03.pdf)
++ 12\. 3\. 2025 --- Obyčejné diferenciální rovnice - Lineární rovnice
+  + [4. cvičení](cvika/cvic103.pdf)
 
 <strong>Domácí úkoly</strong>:
-+ [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025
++ [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
++ [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
