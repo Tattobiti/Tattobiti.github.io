@@ -23,6 +23,7 @@
   + [Vzorečky pro určitý integrál](cvika/Aplikace určitého integrálu.pdf)
 + 5\. 3\. 2025 --- Obyčejné diferenciální rovnice - Separované proměnné
   + [3. cvičení](cvika/cvic102.pdf) --- [řešení](cvika/cviceni03.pdf)
+  + [Kuchařka na separované proměnné od doc. O. Součka](cvika/ODR-kucharka-separace.pdf)
 + 12\. 3\. 2025 --- Obyčejné diferenciální rovnice - Lineární rovnice
   + [4. cvičení](cvika/cvic103.pdf)
 
