@@ -27,7 +27,7 @@
 + 12\. 3\. 2025 --- Obyčejné diferenciální rovnice - Lineární rovnice
   + [4. cvičení](cvika/cvic103.pdf) --- [řešení](cvika/cviceni04.pdf)
 + 19\. 3\. 2025 --- Obyčejné diferenciální rovnice - Konstantní koeficienty
-  + [5. cvičení](cvika/cvic104.pdf)
+  + [5. cvičení](cvika/cvic104a.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
