@@ -25,11 +25,14 @@
   + [3. cvičení](cvika/cvic102.pdf) --- [řešení](cvika/cviceni03.pdf)
   + [Kuchařka na separované proměnné od doc. O. Součka](cvika/ODR-kucharka-separace.pdf)
 + 12\. 3\. 2025 --- Obyčejné diferenciální rovnice - Lineární rovnice
-  + [4. cvičení](cvika/cvic103.pdf)
+  + [4. cvičení](cvika/cvic103.pdf) --- [řešení](cvika/cviceni04.pdf)
++ 19\. 3\. 2025 --- Obyčejné diferenciální rovnice - Konstantní koeficienty
+  + [5. cvičení](cvika/cvic104.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
 + [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025
++ [DU3](cvika/2DU3.pdf) --- odevzdat do večera 20\. 3\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
