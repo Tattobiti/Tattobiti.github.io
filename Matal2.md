@@ -31,7 +31,7 @@
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
-+ [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025
++ [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025 --- [vzorové řešení](cvika/2DU2-solution.pdf)
 + [DU3](cvika/2DU3.pdf) --- odevzdat do večera 20\. 3\. 2025
 
 <strong>Podmínky zápočtu</strong>:
