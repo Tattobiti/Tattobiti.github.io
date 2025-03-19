@@ -28,11 +28,17 @@
   + [4. cvičení](cvika/cvic103.pdf) --- [řešení](cvika/cviceni04.pdf)
 + 19\. 3\. 2025 --- Obyčejné diferenciální rovnice - Konstantní koeficienty
   + [5. cvičení](cvika/cvic104a.pdf) --- [řešení](cvika/cviceni05.pdf)
++ 26\. 3\. 2025 --- ODR zakončení --- Číselné řady s nezápornými členy
+  + [6. cvičení](cvika/cvic105.pdf)
++ 2\. 4\. 2025 --- Číselné řady s obecnými členy
+  + <strong>1. ZÁPOČTOVÁ PÍSEMKA</strong>
+  + [7. cvičení](cvika/cvic106.pdf) 
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
 + [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025 --- [vzorové řešení](cvika/2DU2-solution.pdf)
 + [DU3](cvika/2DU3.pdf) --- odevzdat do večera 20\. 3\. 2025
++ [DU4](cvika/2DU4.pdf) --- odevzdat do cvičení 26\. 3\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
