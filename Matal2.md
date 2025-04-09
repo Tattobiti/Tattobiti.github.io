@@ -32,15 +32,18 @@
   + [6. cvičení](cvika/cvic105.pdf) --- [řešení](cvika/cviceni06.pdf)
 + 2\. 4\. 2025 --- Číselné řady s nezápornými členy - kriteria konvergence
   + <strong>1. ZÁPOČTOVÁ PÍSEMKA</strong>
-+9\. 4\. 2025 ---  Číselné řady s obecnými členy
-  + [7. cvičení](cvika/cvic106.pdf)
++ 9\. 4\. 2025 ---  Číselné řady s obecnými členy
+  + [7. cvičení](cvika/cvic106.pdf) --- [řešení](cvika/cviceni07.pdf)
++ 16\. 4\. 2025 --- Mocninné řady
+  + [8. cvičení](cvika/cvic107.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
 + [DU2](cvika/2DU2.pdf) --- odevzdat do večera 12\. 3\. 2025 --- [vzorové řešení](cvika/2DU2-solution.pdf)
 + [DU3](cvika/2DU3.pdf) --- odevzdat do večera 20\. 3\. 2025 --- [vzorové řešení](cvika/2DU3-solution.pdf)
 + [DU4](cvika/2DU4.pdf) --- odevzdat do cvičení 26\. 3\. 2025 --- [vzorové řešení](cvika/2DU4-solution.pdf)
-+ [DU5](cvika/2DU5.pdf) --- odevzdat do cvičení 9\. 4\. 2025
++ [DU5](cvika/2DU5.pdf) --- odevzdat do cvičení 9\. 4\. 2025 --- [vzorové řešení](cvika/2DU5-solution.pdf)
++ [DU6](cvika/2DU6.pdf) --- odevzdat do večera 16\. 4\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
