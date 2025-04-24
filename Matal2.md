@@ -37,9 +37,10 @@
 + 16\. 4\. 2025 --- Mocninné řady
   + [8. cvičení](cvika/cvic107.pdf) --- [řešení](cvika/cviceni08.pdf)
 + 23\. 4\. 2025 --- Metrické prostory
-  + [8. cvičení](cvika/cvic108.pdf)
+  + [9. cvičení](cvika/cvic108.pdf) --- [řešení](cvika/cviceni10.pdf)
+  + [10. cvičení](cvika/cvic109.pdf) --- [řešení](cvika/cviceni09.pdf) 
 + 30\. 4\. 2025 --- Funkce více proměnných
-  + [9. cvičení](cvika/cvic109.pdf)
+  + [11. cvičení](cvika/cvic110.pdf)
 
 
 <strong>Domácí úkoly</strong>:
@@ -50,6 +51,7 @@
 + [DU5](cvika/2DU5.pdf) --- odevzdat do cvičení 9\. 4\. 2025 --- [vzorové řešení](cvika/2DU5-solution.pdf)
 + [DU6](cvika/2DU6.pdf) --- odevzdat do večera 16\. 4\. 2025
 + [DU7](cvika/2DU7.pdf) --- odevzdat do večera 25\. 4\. 2025
++ [DU8](cvika/2DU8.pdf) --- odevzdat do večera 1\. 5\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
