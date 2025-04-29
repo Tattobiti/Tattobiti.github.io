@@ -49,7 +49,7 @@
 + [DU3](cvika/2DU3.pdf) --- odevzdat do večera 20\. 3\. 2025 --- [vzorové řešení](cvika/2DU3-solution.pdf)
 + [DU4](cvika/2DU4.pdf) --- odevzdat do cvičení 26\. 3\. 2025 --- [vzorové řešení](cvika/2DU4-solution.pdf)
 + [DU5](cvika/2DU5.pdf) --- odevzdat do cvičení 9\. 4\. 2025 --- [vzorové řešení](cvika/2DU5-solution.pdf)
-+ [DU6](cvika/2DU6.pdf) --- odevzdat do večera 16\. 4\. 2025
++ [DU6](cvika/2DU6.pdf) --- odevzdat do večera 16\. 4\. 2025 --- [vzorové řešení](cvika/2DU6-solution.pdf)
 + [DU7](cvika/2DU7.pdf) --- odevzdat do večera 25\. 4\. 2025
 + [DU8](cvika/2DU8.pdf) --- odevzdat do večera 1\. 5\. 2025
 
