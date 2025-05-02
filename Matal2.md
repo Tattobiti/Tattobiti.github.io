@@ -40,8 +40,13 @@
   + [9. cvičení](cvika/cvic108.pdf) --- [řešení](cvika/cviceni10.pdf)
   + [10. cvičení](cvika/cvic109.pdf) --- [řešení](cvika/cviceni09.pdf) 
 + 30\. 4\. 2025 --- Funkce více proměnných
-  + [11. cvičení](cvika/cvic110.pdf)
-
+  + [11. cvičení](cvika/cvic110.pdf) --- [řešení](cvika/cviceni11.pdf) 
++ 7\. 5\. 2025 --- Totální diferenciál
+  + [12. cvičení](cvika/cvic111.pdf)
++ 14\. 5\. 2025 --- Lokální extrémy
+  + [13. cvičení](cvika/cvic112.pdf)
++ 21\. 4\. 2025 --- Vázané extrémy
+  + [14. cvičení](cvika/cvic113.pdf)
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
@@ -52,6 +57,7 @@
 + [DU6](cvika/2DU6.pdf) --- odevzdat do večera 16\. 4\. 2025 --- [vzorové řešení](cvika/2DU6-solution.pdf)
 + [DU7](cvika/2DU7.pdf) --- odevzdat do večera 25\. 4\. 2025
 + [DU8](cvika/2DU8.pdf) --- odevzdat do večera 1\. 5\. 2025
++ [DU9](cvika/2DU9.pdf) --- odevzdat do večera 9\. 5\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
