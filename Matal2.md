@@ -42,7 +42,7 @@
 + 30\. 4\. 2025 --- Funkce více proměnných
   + [11. cvičení](cvika/cvic110.pdf) --- [řešení](cvika/cviceni11.pdf) 
 + 7\. 5\. 2025 --- Totální diferenciál
-  + [12. cvičení](cvika/cvic111.pdf)
+  + [12. cvičení](cvika/cvic111.pdf) --- [řešení](cvika/cviceni12.pdf) 
 + 14\. 5\. 2025 --- Lokální extrémy
   + [13. cvičení](cvika/cvic112.pdf)
 + 21\. 4\. 2025 --- Vázané extrémy
