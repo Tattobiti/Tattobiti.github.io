@@ -46,7 +46,7 @@
 + 14\. 5\. 2025 --- Lokální extrémy
   + [13. cvičení](cvika/cvic112.pdf) --- [řešení](cvika/cviceni13.pdf) 
 + 21\. 4\. 2025 --- Vázané extrémy
-  + [14. cvičení](cvika/cvic113.pdf)
+  + [14. cvičení](cvika/cvic113.pdf) --- [řešení](cvika/cviceni14.pdf) 
 
 <strong>Domácí úkoly</strong>:
 + [DU1](cvika/2DU1.pdf) --- odevzdat do cvičení 5\. 3\. 2025 --- [vzorové řešení](cvika/2DU1-solution.pdf)
