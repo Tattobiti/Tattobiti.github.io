@@ -44,6 +44,7 @@
 + 7\. 5\. 2025 --- Totální diferenciál
   + [12. cvičení](cvika/cvic111.pdf) --- [řešení](cvika/cviceni12.pdf) 
 + 14\. 5\. 2025 --- Lokální extrémy
+  + <strong>2. ZÁPOČTOVÁ PÍSEMKA</strong>
   + [13. cvičení](cvika/cvic112.pdf) --- [řešení](cvika/cviceni13.pdf) 
 + 21\. 4\. 2025 --- Vázané extrémy
   + [14. cvičení](cvika/cvic113.pdf) --- [řešení](cvika/cviceni14.pdf) 
@@ -58,7 +59,7 @@
 + [DU7](cvika/2DU7.pdf) --- odevzdat do večera 25\. 4\. 2025 --- [vzorové řešení](cvika/KristiánMatúš.pdf) od Kristriána Matúše
 + [DU8](cvika/2DU8.pdf) --- odevzdat do večera 1\. 5\. 2025 --- [vzorové řešení](cvika/2DU8-solution.pdf)
 + [DU9](cvika/2DU9.pdf) --- odevzdat do večera 9\. 5\. 2025 --- [vzorové řešení](cvika/2DU9-solution.pdf)
-+ [DU10](cvika/2DU10.pdf) --- odevzdat do večera 23\. 5\. 2025
++ [DU10](cvika/2DU10.pdf) --- odevzdat do večera 23\. 5\. 2025 --- [vzorové řešení](cvika/2DU10-solution.pdf)
 
 <strong>Podmínky zápočtu</strong>:
 
