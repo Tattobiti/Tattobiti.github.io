@@ -41,7 +41,7 @@
 
 <strong>Domácí úkoly</strong>:
 
-+ DU1 zadání (bude až příští týden)
++ [DU1](cvika/3DU1.pdf) (bude až příští týden) --- odevzdat do cvičení 15\. 10\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
