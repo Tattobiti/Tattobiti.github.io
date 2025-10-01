@@ -36,10 +36,12 @@
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
   + [8. sada](cvika/cvic2z08.pdf)
 + 17\. 12\. 2025 --- Fourierovy řady - ortogonální polynomy
-  + [8. sada](cvika/cvic2z09.pdf)
+  + [9. sada](cvika/cvic2z09.pdf)
 + 7\. 1\. 2026 --- Opakování
 
 <strong>Domácí úkoly</strong>:
+
++ DU1 zadání (bude až příští týden)
 
 <strong>Podmínky zápočtu</strong>:
 
