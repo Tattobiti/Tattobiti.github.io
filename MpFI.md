@@ -45,6 +45,8 @@
 
 <strong>Podmínky zápočtu</strong>:
 
+[Tabulka](https://docs.google.com/spreadsheets/d/1TD0aO9gY2P5FXlrATakNNj3WuZAPw6GPBoOASXgdqFI/edit?gid=0#gid=0) s body za cvičení.
+
 Na cvičení bude možné získat až 50 bodů:
 + 2 písemky, každá max. za 18 bodů
 + 10 dobrovolných domácích úkolů, každý max. za 2 body, na konci se studentovi počítá 7 nejlepších úkolů
