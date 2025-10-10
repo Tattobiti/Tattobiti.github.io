@@ -17,7 +17,7 @@
 
 <strong>Zadání příkladů</strong>:
 + 1\. 10\. 2025 --- Klasický variační počet 
-  + [1. sada](cvika/cvic2z01.pdf) --- [řešení 1-10](cvika/cviceni01.pdf), [řešení 11-24](cvika/cviceni02.pdf)
+  + [1. sada](cvika/cvic2z01.pdf) --- [řešení 1-10](cvika/3cviceni01.pdf), [řešení 11-24](cvika/3cviceni02.pdf)
 + 8\. 10\. 2025 --- Klasický variační počet - aplikace z fyziky
 + 15\. 10\. 2025 --- Posloupnosti funkcí
   + [2. sada](cvika/cvic2z02.pdf)
