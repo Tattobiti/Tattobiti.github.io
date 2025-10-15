@@ -20,7 +20,7 @@
   + [1. sada](cvika/cvic2z01.pdf) --- [řešení 1-10](cvika/3cviceni01.pdf), [řešení 11-24](cvika/3cviceni02.pdf)
 + 8\. 10\. 2025 --- Klasický variační počet - aplikace z fyziky
 + 15\. 10\. 2025 --- Posloupnosti funkcí
-  + [2. sada](cvika/cvic2z02.pdf)
+  + [2. sada](cvika/cvic2z02.pdf) --- [řešení](cvika/3cviceni03.pdf)
 + 22\. 10\. 2025 --- Řady funkcí
   + [3. sada](cvika/cvic2z03.pdf)
 + 29\. 10\. 2025 --- Lebesgueův integrál - Fubiniho věta, substituce
@@ -42,6 +42,7 @@
 <strong>Domácí úkoly</strong>:
 
 + [DU1](cvika/3DU1.pdf) --- odevzdat do cvičení 15\. 10\. 2025
++ [DU2](cvika/3DU2.pdf) --- odevzdat do cvičení 22\. 10\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
