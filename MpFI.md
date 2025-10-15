@@ -26,7 +26,7 @@
 + 29\. 10\. 2025 --- Lebesgueův integrál - Fubiniho věta, substituce
   + [4. sada](cvika/cvic2z04.pdf)
 + 5\. 11\. 2025 --- Lebesgueův integrál - Leviho a Lebesgueova věta
-  + [5. sada](cvika/cvic2z01.pdf)
+  + [5. sada](cvika/cvic2z05.pdf)
 + 12\. 11\. 2025 --- Lebesgueův integrál
 + 19\. 11\. 2025 --- Křivkový integrál
   + [6. sada](cvika/cvic2z06.pdf)
