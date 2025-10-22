@@ -19,20 +19,23 @@
 + 1\. 10\. 2025 --- Klasický variační počet 
   + [1. sada](cvika/cvic2z01.pdf) --- [řešení 1-10](cvika/3cviceni01.pdf), [řešení 11-24](cvika/3cviceni02.pdf)
 + 8\. 10\. 2025 --- Klasický variační počet - aplikace z fyziky
+  
 + 15\. 10\. 2025 --- Posloupnosti funkcí
   + [2. sada](cvika/cvic2z02.pdf) --- [řešení](cvika/3cviceni03.pdf)
 + 22\. 10\. 2025 --- Řady funkcí
-  + [3. sada](cvika/cvic2z03.pdf)
+  + [3. sada](cvika/cvic2z03.pdf) --- [řešení 1-9](cvika/3cviceni04.pdf)
 + 29\. 10\. 2025 --- Lebesgueův integrál - Fubiniho věta, substituce
   + [4. sada](cvika/cvic2z04.pdf)
 + 5\. 11\. 2025 --- Lebesgueův integrál - Leviho a Lebesgueova věta
   + [5. sada](cvika/cvic2z05.pdf)
 + 12\. 11\. 2025 --- Lebesgueův integrál
+  
 + 19\. 11\. 2025 --- Křivkový integrál
   + [6. sada](cvika/cvic2z06.pdf)
 + 26\. 11\. 2025 --- Plošný integrál I. druhu
   + [7. sada](cvika/cvic2z07.pdf)
-+ 3\. 12\. 2025 --- Plošný integrál 
++ 3\. 12\. 2025 --- Plošný integrál
+  
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
   + [8. sada](cvika/cvic2z08.pdf)
 + 17\. 12\. 2025 --- Fourierovy řady - ortogonální polynomy
@@ -43,6 +46,7 @@
 
 + [DU1](cvika/3DU1.pdf) --- odevzdat do večera 15\. 10\. 2025 --- [vzorové řešení](cvika/3DU1_solution.pdf)
 + [DU2](cvika/3DU2.pdf) --- odevzdat do večera 22\. 10\. 2025
++ [DU3](cvika/3DU3.pdf) --- odevzdat do večera 29\. 10\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
