@@ -23,9 +23,9 @@
 + 15\. 10\. 2025 --- Posloupnosti funkcí
   + [2. sada](cvika/cvic2z02.pdf) --- [řešení](cvika/3cviceni03.pdf)
 + 22\. 10\. 2025 --- Řady funkcí
-  + [3. sada](cvika/cvic2z03.pdf) --- [řešení 1-9](cvika/3cviceni04.pdf)
+  + [3. sada](cvika/cvic2z03.pdf) --- [řešení 1-9](cvika/3cviceni04.pdf), [řešení 10-17](cvika/3cviceni05.pdf)
 + 29\. 10\. 2025 --- Lebesgueův integrál - Fubiniho věta, substituce
-  + [4. sada](cvika/cvic2z04.pdf)
+  + [4. sada](cvika/cvic2z04.pdf) --- [řešení 1-7](cvika/3cviceni06.pdf)
 + 5\. 11\. 2025 --- Lebesgueův integrál - Leviho a Lebesgueova věta
   + [5. sada](cvika/cvic2z05.pdf)
 + 12\. 11\. 2025 --- Lebesgueův integrál
@@ -46,7 +46,7 @@
 
 + [DU1](cvika/3DU1.pdf) --- odevzdat do večera 15\. 10\. 2025 --- [vzorové řešení](cvika/3DU1_solution.pdf)
 + [DU2](cvika/3DU2.pdf) --- odevzdat do večera 22\. 10\. 2025 --- [vzorové řešení](cvika/3DU2_solution.pdf)
-+ [DU3](cvika/3DU3.pdf) --- odevzdat do večera 29\. 10\. 2025
++ [DU3](cvika/3DU3.pdf) --- odevzdat do večera 29\. 10\. 2025 --- [vzorové řešení](cvika/3DU3_solution.pdf)
 + [DU4](cvika/3DU4.pdf) --- odevzdat do večera 5\. 11\. 2025
 
 <strong>Podmínky zápočtu</strong>:
