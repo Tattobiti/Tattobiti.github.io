@@ -25,7 +25,7 @@
 + 22\. 10\. 2025 --- Řady funkcí
   + [3. sada](cvika/cvic2z03.pdf) --- [řešení 1-9](cvika/3cviceni04.pdf), [řešení 10-17](cvika/3cviceni05.pdf)
 + 29\. 10\. 2025 --- Lebesgueův integrál - Fubiniho věta, substituce
-  + [4. sada](cvika/cvic2z04.pdf) --- [řešení 1-5b)](cvika/3cviceni06.pdf), [řešení 5c)-10](cvika/3cviceni07.pdf)
+  + [4. sada](cvika/cvic2z04.pdf) --- [řešení 1-5b)](cvika/3cviceni06.pdf), [řešení 5c)-10](cvika/3cviceni07-6-11.pdf)
 + 5\. 11\. 2025 --- Lebesgueův integrál - Leviho a Lebesgueova věta
   + [5. sada](cvika/cvic2z05.pdf)
 + 12\. 11\. 2025 --- Lebesgueův integrál
