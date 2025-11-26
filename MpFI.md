@@ -30,11 +30,11 @@
   + [5. sada](cvika/cvic2z05.pdf) --- [řešení](cvika/3cviceni08-4-17_merged.pdf)
 + 12\. 11\. 2025 --- Lebesgueův integrál
   
-+ 19\. 11\. 2025 --- Křivkový integrál
++ 19\. 11\. 2025 --- Integrál závislý na parametru
   + [1. zápočtová písemka](cvika/3Test1.pdf)
-+ 26\. 11\. 2025 --- Plošný integrál I. druhu
++ 26\. 11\. 2025 --- Křivkový integrál
   + [6. sada](cvika/cvic2z06.pdf) --- [řešení](cvika/3cviceni09.pdf)
-+ 3\. 12\. 2025 --- Plošný integrál
++ 3\. 12\. 2025 --- Plošný integrál I. druhu
   + [7. sada](cvika/cvic2z07.pdf)
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
   + [8. sada](cvika/cvic2z08.pdf)
