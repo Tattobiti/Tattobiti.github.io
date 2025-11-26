@@ -33,7 +33,7 @@
 + 19\. 11\. 2025 --- Křivkový integrál
   + [1. zápočtová písemka](cvika/3Test1.pdf)
 + 26\. 11\. 2025 --- Plošný integrál I. druhu
-  + [6. sada](cvika/cvic2z06.pdf)
+  + [6. sada](cvika/cvic2z06.pdf) --- [řešení](cvika/3cviceni09.pdf)
 + 3\. 12\. 2025 --- Plošný integrál
   + [7. sada](cvika/cvic2z07.pdf)
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
