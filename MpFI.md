@@ -49,7 +49,7 @@
 + [DU3](cvika/3DU3.pdf) --- odevzdat do večera 29\. 10\. 2025 --- [vzorové řešení](cvika/3DU3_solution.pdf)
 + [DU4](cvika/3DU4.pdf) --- odevzdat do večera 5\. 11\. 2025 --- [vzorové řešení](cvika/3DU4_solution.pdf)
 + [DU5](cvika/3DU5.pdf) --- odevzdat do večera 13\. 11\. 2025 --- [vzorové řešení](cvika/3DU5_solution.pdf)
-+ [DU6](cvika/3DU6.pdf) --- odevzdat do večera 26\. 11\. 2025
++ [DU6](cvika/3DU6.pdf) --- odevzdat do večera 26\. 11\. 2025 --- [vzorové řešení](cvika/3DU6_solution.pdf)
 + [DU7](cvika/3DU7.pdf) --- odevzdat do večera 4\. 12\. 2025
 
 <strong>Podmínky zápočtu</strong>:
