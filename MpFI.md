@@ -37,7 +37,7 @@
 + 3\. 12\. 2025 --- Plošný integrál I. druhu
   + [7. sada](cvika/cvic2z07.pdf) --- [řešení](cvika/3cviceni10.pdf)
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
-  + [8. sada](cvika/cvic2z08.pdf) 
+  + [8. sada](cvika/cvic2z08.pdf) --- [řešení 1-6](cvika/3cviceni11.pdf)
 + 17\. 12\. 2025 --- Fourierovy řady - ortogonální polynomy
   + [9. sada](cvika/cvic2z09.pdf)
 + 7\. 1\. 2026 --- Opakování
@@ -52,6 +52,7 @@
 + [DU6](cvika/3DU6.pdf) --- odevzdat do večera 26\. 11\. 2025 --- [vzorové řešení](cvika/3DU6_solution.pdf)
 + [DU7](cvika/3DU7.pdf) --- odevzdat do večera 4\. 12\. 2025 --- [vzorové řešení](cvika/3DU7_solution.pdf)
 + [DU8](cvika/3DU8.pdf) --- odevzdat do večera 10\. 12\. 2025
++ [DU9](cvika/3DU9.pdf) --- odevzdat do večera 21\. 12\. 2025
 
 <strong>Podmínky zápočtu</strong>:
 
