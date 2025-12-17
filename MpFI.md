@@ -38,8 +38,8 @@
   + [7. sada](cvika/cvic2z07.pdf) --- [řešení](cvika/3cviceni10.pdf)
 + 10\. 12\. 2025 --- Plošný integrál II. druhu
   + [8. sada](cvika/cvic2z08.pdf) --- [řešení 1-6](cvika/3cviceni11.pdf)
-+ 17\. 12\. 2025 --- Fourierovy řady - ortogonální polynomy
-  + [9. sada](cvika/cvic2z09.pdf)
++ 17\. 12\. 2025 --- Gaussova věta
+  + [2. zápočtová písemka](cvika/3Test2.pdf)
 + 7\. 1\. 2026 --- Opakování
 
 <strong>Domácí úkoly</strong>:
