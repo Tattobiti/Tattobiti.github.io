@@ -19,7 +19,7 @@
 + 18\. 2\. 2026 --- Ortogonální polynomy a Fourierovy řady  
   + [1. sada](cvika/cvic2z09.pdf) 
 + 25\. 2\. 2026 --- Fourierovy trigonometrické řady
-  + [2. sada](cvika/cvic2l01)
+  + [2. sada](cvika/cvic2l01.pdf)
 + 4\. 3\. 2026 --- Komplexní analýza - základy
   + [3. sada](cvika/cvic2l02.pdf) 
 + 11\. 3\. 2026 --- Cauchyho věta a křivkový integrál 
@@ -37,7 +37,7 @@
 + 22\. 4\. 2026 --- Fourierova transformace
   + [10. sada](cvika/cvic2l09.pdf)
 + 29\. 4\. 2026 --- Distribuce
-  + [11. sada](cvika/cvic2z08.pdf)
+  + [11. sada](cvika/cvic2l10.pdf)
 + 6\. 5\. 2026 --- Distribuce
   
 + 13\. 5\. 2026 --- Rektorský sportovní den
