@@ -16,11 +16,10 @@ Tobiáš Krupa
 
 ## Teaching
 
-### Current semester Summer - 2025/26
-Winter semester
-* [Mathematics for Physicists I](https://tattobiti.github.io/MpFI)
+### Current semester - Summer 2025/26
+* [Mathematics for Physicists II](https://tattobiti.github.io/MpFII)
 
-### [Archive of past courses]
+### [Archive of past courses](https://tattobiti.github.io/Archive)
 
 * * *
 
