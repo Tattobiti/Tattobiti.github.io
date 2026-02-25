@@ -46,7 +46,7 @@
 
 <strong>Domácí úkoly</strong>:
 
-+ [DU1](cvika/4DU1.pdf) TBA
++ [DU1](cvika/4DU1.pdf) --- odevzdat do 4.3. do večera
 
 <strong>Podmínky zápočtu</strong>:
 
