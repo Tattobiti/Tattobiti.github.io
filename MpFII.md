@@ -21,7 +21,7 @@
 + 25\. 2\. 2026 --- Fourierovy trigonometrické řady
   + [2. sada](cvika/cvic2l01.pdf) --- [řešení 1-7](cvika/4cviceni01.pdf) - [řešení 8-11](cvika/4cviceni02-1-5.pdf)
 + 4\. 3\. 2026 --- Komplexní analýza - základy
-  + [3. sada](cvika/cvic2l02.pdf) --- [řešení 1-4](cvika/4cviceni03_sol.pdf)
+  + [3. sada](cvika/cvic2l02.pdf) --- [řešení](cvika/4cviceni03_sol.pdf)
 + 11\. 3\. 2026 --- Cauchyho věta a křivkový integrál 
   + [4. sada](cvika/cvic2l03.pdf) 
 + 18\. 3\. 2026 --- Obecná mocnina a komplexní logaritmus
