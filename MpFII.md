@@ -23,9 +23,9 @@
 + 4\. 3\. 2026 --- Komplexní analýza - základy
   + [3. sada](cvika/cvic2l02.pdf) --- [řešení](cvika/4cviceni03_sol.pdf)
 + 11\. 3\. 2026 --- Cauchyho věta a křivkový integrál 
-  + [4. sada](cvika/cvic2l03.pdf) 
+  + [4. sada](cvika/cvic2l03.pdf) --- [řešení](cvika/4cviceni04_sol.pdf)
 + 18\. 3\. 2026 --- Obecná mocnina a komplexní logaritmus
-  + [5. sada](cvika/cvic2l04.pdf) 
+  + [5. sada](cvika/cvic2l04.pdf) --- [řešení](cvika/4cviceni05_sol.pdf)
 + 25\. 3\. 2026 --- Laurentovy řady
   + [6. sada](cvika/cvic2l05.pdf) 
 + 1\. 4\. 2026 --- Reziduová věta I
