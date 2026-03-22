@@ -47,7 +47,7 @@
 <strong>Domácí úkoly</strong>:
 
 + [DU1](cvika/4DU1.pdf) --- odevzdat do 4.3. do večera --- [vzorové řešení](cvika/4DU1_solution.pdf)
-+ [DU2](cvika/4DU2.pdf) --- odevzdat do 11.3. do večera
++ [DU2](cvika/4DU2.pdf) --- odevzdat do 11.3. do večera --- [vzorové řešení](cvika/4DU2_solution.pdf)
 + [DU3](cvika/4DU3.pdf) --- odevzdat do 25.3. do večera
 + [DU4](cvika/4DU4.pdf) --- odevzdat do 25.3. do večera
 
