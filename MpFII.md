@@ -51,6 +51,7 @@
 + [DU3](cvika/4DU3.pdf) --- odevzdat do 25.3. do večera --- [vzorové řešení](cvika/4DU3_solution.pdf)
 + [DU4](cvika/4DU4.pdf) --- odevzdat do 25.3. do večera --- [vzorové řešení](cvika/4DU4_solution.pdf)
 + [DU5](cvika/4DU5.pdf) --- odevzdat do 2.4. do večera
++ [DU6](cvika/4DU6.pdf) --- odevzdat do 10.4. do večera
 
 <strong>Podmínky zápočtu</strong>:
 
