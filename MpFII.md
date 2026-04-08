@@ -27,7 +27,7 @@
 + 18\. 3\. 2026 --- Obecná mocnina a komplexní logaritmus
   + [5. sada](cvika/cvic2l04.pdf) --- [řešení](cvika/4cviceni05_sol.pdf)
 + 25\. 3\. 2026 --- Laurentovy řady
-  + [6. sada](cvika/cvic2l05.pdf) 
+  + [6. sada](cvika/cvic2l05.pdf) --- [řešení](cvika/4cviceni05.pdf)
 + 1\. 4\. 2026 --- Reziduová věta I
   + [7. sada](cvika/cvic2l06.pdf)
 + 8\. 4\. 2026 --- Reziduová věta II
