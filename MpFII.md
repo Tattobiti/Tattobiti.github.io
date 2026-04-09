@@ -29,17 +29,17 @@
 + 25\. 3\. 2026 --- Laurentovy řady
   + [6. sada](cvika/cvic2l05.pdf) --- [řešení](cvika/4cviceni05.pdf)
 + 1\. 4\. 2026 --- Reziduová věta I
-  + [7. sada](cvika/cvic2l06.pdf)
-+ 8\. 4\. 2026 --- Reziduová věta II
-  + [8. sada](cvika/cvic2l07.pdf)
+  + [7. sada](cvika/cvic2l06.pdf) --- [řešení](cvika/4cviceni05.pdf)
++ 8\. 4\. 2026 --- <strong>1. zápočtová písemka </strong> 
+  + [Zadání s řešením](cvika/4Test1_solution.pdf)
 + 15\. 4\. 2026 --- Reziduová věta III
-  + [9. sada](cvika/cvic2l08.pdf)
+  + [8. sada](cvika/cvic2l07.pdf)
 + 22\. 4\. 2026 --- Fourierova transformace
-  + [10. sada](cvika/cvic2l09.pdf)
+  + [9. sada](cvika/cvic2l08.pdf)
 + 29\. 4\. 2026 --- Distribuce
-  + [11. sada](cvika/cvic2l10.pdf)
+  + [10. sada](cvika/cvic2l09.pdf)
 + 6\. 5\. 2026 --- Distribuce
-  
+  + [11. sada](cvika/cvic2l10.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
 
 + 20\. 5\. 2026 --- Opakování
@@ -61,4 +61,4 @@ Na cvičení bude možné získat až 50 bodů:
 + 2 písemky, každá max. za 18 bodů
 + 10 dobrovolných domácích úkolů, každý max. za 2 body, na konci se studentovi počítá 7 nejlepších úkolů
 
-Na zápočet je nutné získat alespoň 26 bodů. Získané body poté mají vliv na hodnocení u zkoušky. Více informací [zde](https://www2.karlin.mff.cuni.cz/~mbul8060/NOFY161/Zkouska_NOFY161.pdf) TBA
+Na zápočet je nutné získat alespoň 26 bodů. Získané body poté mají vliv na hodnocení u zkoušky. Více informací [zde](https://www2.karlin.mff.cuni.cz/~mbul8060/NOFY162/Zkouska_NOFY162.pdf)
