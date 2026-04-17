@@ -32,17 +32,17 @@
   + [7. sada](cvika/cvic2l06.pdf) --- [řešení](cvika/4cviceni05.pdf)
 + 8\. 4\. 2026 --- <strong>1. zápočtová písemka </strong> 
   + [Zadání s řešením](cvika/4Test1_solution.pdf)
-+ 15\. 4\. 2026 --- Reziduová věta III
++ 15\. 4\. 2026 --- Reziduová věta I
+  + [7. sada](cvika/cvic2l06.pdf)
++ 22\. 4\. 2026 --- Reziduová věta II
   + [8. sada](cvika/cvic2l07.pdf)
-+ 22\. 4\. 2026 --- Fourierova transformace
-  + [9. sada](cvika/cvic2l08.pdf)
-+ 29\. 4\. 2026 --- Distribuce
-  + [10. sada](cvika/cvic2l09.pdf)
++ 29\. 4\. 2026 --- Reziduová věta III, Fourierova transformace
+  + [9. sada](cvika/cvic2l08.pdf), [10. sada](cvika/cvic2l09.pdf)
 + 6\. 5\. 2026 --- Distribuce
   + [11. sada](cvika/cvic2l10.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
 
-+ 20\. 5\. 2026 --- Opakování
++ 20\. 5\. 2026 --- Distribuce, Opakování
 
 <strong>Domácí úkoly</strong>:
 
@@ -52,6 +52,7 @@
 + [DU4](cvika/4DU4.pdf) --- odevzdat do 25.3. do večera --- [vzorové řešení](cvika/4DU4_solution.pdf)
 + [DU5](cvika/4DU5.pdf) --- odevzdat do 2.4. do večera --- [vzorové řešení](cvika/4DU5_solution.pdf)
 + [DU6](cvika/4DU6.pdf) --- odevzdat do 10.4. do večera --- [vzorové řešení](cvika/4DU6_solution.pdf)
++ [DU7](cvika/4DU7.pdf) --- odevzdat do 24.4. do večera
 
 <strong>Podmínky zápočtu</strong>:
 
