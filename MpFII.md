@@ -29,13 +29,13 @@
 + 25\. 3\. 2026 --- Laurentovy řady
   + [6. sada](cvika/cvic2l05.pdf) --- [řešení](cvika/4cviceni05.pdf)
 + 1\. 4\. 2026 --- Reziduová věta I
-  + [7. sada](cvika/cvic2l06.pdf) --- [řešení](cvika/4cviceni05.pdf)
+  + [7. sada](cvika/cvic2l06.pdf) --- [řešení 1-10](cvika/4cviceni06.pdf)
 + 8\. 4\. 2026 --- <strong>1. zápočtová písemka </strong> 
   + [Zadání s řešením](cvika/4Test1_solution.pdf)
-+ 15\. 4\. 2026 --- Reziduová věta I
++ 15\. 4\. 2026 --- Reziduová věta I --- [I. řešení 11-16, II. řešení 1-10](cvika/4cviceni07.pdf)
   + [7. sada](cvika/cvic2l06.pdf)
 + 22\. 4\. 2026 --- Reziduová věta II
-  + [8. sada](cvika/cvic2l07.pdf)
+  + [8. sada](cvika/cvic2l07.pdf) --- [řešení](cvika/4cviceni07.pdf)
 + 29\. 4\. 2026 --- Reziduová věta III, Fourierova transformace
   + [9. sada](cvika/cvic2l08.pdf), [10. sada](cvika/cvic2l09.pdf)
 + 6\. 5\. 2026 --- Distribuce
