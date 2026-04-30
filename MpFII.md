@@ -37,7 +37,7 @@
 + 22\. 4\. 2026 --- Reziduová věta II
   + [8. sada](cvika/cvic2l07.pdf) --- [řešení](cvika/4cviceni07.pdf)
 + 29\. 4\. 2026 --- Reziduová věta III, Fourierova transformace
-  + [9. sada](cvika/cvic2l08.pdf), [10. sada](cvika/cvic2l09.pdf)
+  + [9. sada](cvika/cvic2l08.pdf) --- [řešení](cvika/4cviceni08.pdf), [10. sada](cvika/cvic2l09.pdf)
 + 6\. 5\. 2026 --- Distribuce
   + [11. sada](cvika/cvic2l10.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
