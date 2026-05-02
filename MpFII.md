@@ -53,7 +53,7 @@
 + [DU5](cvika/4DU5.pdf) --- odevzdat do 2.4. do večera --- [vzorové řešení](cvika/4DU5_solution.pdf)
 + [DU6](cvika/4DU6.pdf) --- odevzdat do 10.4. do večera --- [vzorové řešení](cvika/4DU6_solution.pdf)
 + [DU7](cvika/4DU7.pdf) --- odevzdat do 24.4. do večera --- [vzorové řešení](cvika/4DU7_solution.pdf)
-+ [DU8](cvika/4DU8.pdf) --- odevzdat do 1.5. do večera --- [vzorové řešení](cvika/4DU8_solution.pdf)
++ [DU8](cvika/4DU8.pdf) --- odevzdat do 1.5. do večera --- [vzorové řešení](cvika/4DU8_solution.pdf) od doc. D. Pokorného (příklad ze zkouškové písemky)
 
 <strong>Podmínky zápočtu</strong>:
 
