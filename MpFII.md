@@ -31,17 +31,17 @@
 + 1\. 4\. 2026 --- Reziduová věta I
   + [7. sada](cvika/cvic2l06.pdf) --- [řešení 1-10](cvika/4cviceni06.pdf)
 + 8\. 4\. 2026 --- <strong>1. zápočtová písemka </strong> 
-  + [Zadání s řešením](cvika/4Test1_solution.pdf)
+  + [Zadání 1. písemky s řešením](cvika/4Test1_solution.pdf)
 + 15\. 4\. 2026 --- Reziduová věta I --- [I. řešení 11-16, II. řešení 1-10](cvika/4cviceni07.pdf)
   + [7. sada](cvika/cvic2l06.pdf)
 + 22\. 4\. 2026 --- Reziduová věta II
   + [8. sada](cvika/cvic2l07.pdf) --- [řešení](cvika/4cviceni07.pdf)
 + 29\. 4\. 2026 --- Reziduová věta III, Fourierova transformace
   + [9. sada](cvika/cvic2l08.pdf) --- [řešení](cvika/4cviceni08.pdf), [10. sada](cvika/cvic2l09.pdf)
-+ 6\. 5\. 2026 --- Distribuce
-  + [11. sada](cvika/cvic2l10.pdf)
++ 6\. 5\. 2026 --- <strong>2. zápočtová písemka </strong>,  Distribuce
+  + [Zadání 2. písemky s řešením](cvika/4Test2_solution.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
-
+  + [11. sada](cvika/cvic2l10.pdf)
 + 20\. 5\. 2026 --- Distribuce, Opakování
 
 <strong>Domácí úkoly</strong>:
