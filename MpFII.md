@@ -37,7 +37,7 @@
 + 22\. 4\. 2026 --- Reziduová věta II
   + [8. sada](cvika/cvic2l07.pdf) --- [řešení](cvika/4cviceni07.pdf)
 + 29\. 4\. 2026 --- Reziduová věta III, Fourierova transformace
-  + [9. sada](cvika/cvic2l08.pdf) --- [řešení](cvika/4cviceni08.pdf), [10. sada](cvika/cvic2l09.pdf)
+  + [9. sada](cvika/cvic2l08.pdf) --- [řešení](cvika/4cviceni08.pdf), [10. sada](cvika/cvic2l09.pdf) --- [řešení](cvika/4cviceni10.pdf)
 + 6\. 5\. 2026 --- <strong>2. zápočtová písemka </strong>,  Distribuce
   + [Zadání 2. písemky s řešením](cvika/4Test2_solution.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
@@ -54,6 +54,7 @@
 + [DU6](cvika/4DU6.pdf) --- odevzdat do 10.4. do večera --- [vzorové řešení](cvika/4DU6_solution.pdf)
 + [DU7](cvika/4DU7.pdf) --- odevzdat do 24.4. do večera --- [vzorové řešení](cvika/4DU7_solution.pdf)
 + [DU8](cvika/4DU8.pdf) --- odevzdat do 1.5. do večera --- [vzorové řešení](cvika/4DU8_solution.pdf) od doc. D. Pokorného (příklad ze zkouškové písemky)
++ [DU9](cvika/4DU9.pdf) --- odevzdat do 20.5. do večera
 
 <strong>Podmínky zápočtu</strong>:
 
