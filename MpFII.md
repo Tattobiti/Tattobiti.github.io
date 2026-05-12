@@ -41,7 +41,7 @@
 + 6\. 5\. 2026 --- <strong>2. zápočtová písemka </strong>,  Distribuce
   + [Zadání 2. písemky s řešením](cvika/4Test2_solution.pdf)
 + 13\. 5\. 2026 --- Rektorský sportovní den
-  + [11. sada](cvika/cvic2l10.pdf)
+  + [11. sada](cvika/cvic2l10.pdf) --- [řešení 1](cvika/4cviceni11.pdf), [řešení 2](cvika/4cviceni12.pdf)
 + 20\. 5\. 2026 --- Distribuce, Opakování
 
 <strong>Domácí úkoly</strong>:
