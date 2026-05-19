@@ -43,6 +43,7 @@
 + 13\. 5\. 2026 --- Rektorský sportovní den
   + [11. sada](cvika/cvic2l10.pdf) --- [řešení 1](cvika/4cviceni11.pdf), [řešení 2](cvika/4cviceni12.pdf)
 + 20\. 5\. 2026 --- Distribuce, Opakování
+  + [12. sada i s řešením](cvika/4cviceni13.pdf)
 
 <strong>Domácí úkoly</strong>:
 
@@ -55,6 +56,7 @@
 + [DU7](cvika/4DU7.pdf) --- odevzdat do 24.4. do večera --- [vzorové řešení](cvika/4DU7_solution.pdf)
 + [DU8](cvika/4DU8.pdf) --- odevzdat do 1.5. do večera --- [vzorové řešení](cvika/4DU8_solution.pdf) od doc. D. Pokorného (příklad ze zkouškové písemky)
 + [DU9](cvika/4DU9.pdf) --- odevzdat do 20.5. do večera
++ [DU10](cvika/4DU10.pdf) --- odevzdat do 24.5. do večera
 
 <strong>Podmínky zápočtu</strong>:
 
