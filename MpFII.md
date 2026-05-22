@@ -44,6 +44,7 @@
   + [11. sada](cvika/cvic2l10.pdf) --- [řešení 1](cvika/4cviceni11.pdf), [řešení 2](cvika/4cviceni12.pdf)
 + 20\. 5\. 2026 --- Distribuce, Opakování
   + [12. sada i s řešením](cvika/4cviceni13.pdf)
+  + [Text k Fundamentálnímu řešení ODR](cvika/cviceni13-8-15.pdf)
 
 <strong>Domácí úkoly</strong>:
 
