@@ -9,7 +9,7 @@
 ## Student
 
 Tobiáš Krupa  
-* student of doctoral studies, programme Mathematical modelling  
+* student of Doctoral study programme - Mathematical and Computer Modeling  
 * Charles University, Faculty of Mathematics and Physics
 
 * * *
